@@ -6,8 +6,6 @@ Yeoman generator for eslint and react things
 yo maxy:dva
 yo maxy:eslint-node
 yo maxy:eslint-react
-yo maxy:eslint-svelte
-yo maxy:eslint-vue
 yo maxy:firebase-auth
 yo maxy:plop-react
 yo maxy:redux
